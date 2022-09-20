@@ -1,5 +1,5 @@
-Git is a version control system
-GIt is free software
+Git is a distributed version control system.
+Git is free software.
 
-Git是一个版本控制系统
-GIt是自由软件
+Git是一个分布式版本控制系统。
+Git是自由软件。
